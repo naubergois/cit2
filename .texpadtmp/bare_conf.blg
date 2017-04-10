@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bare_conf.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ../cit.bib
+Repeated entry---line 1241 of file ../cit.bib
+ : @inproceedings{Gois2016
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2270 of file ../cit.bib
+ : @article{Harman2010
+ :                    ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--missing school in Jiang2010
+Warning--empty journal in Gay
+Warning--empty year in Gay
+Warning--empty journal in Sullivan
+Warning--empty year in Sullivan
+Warning--empty journal in Sandler2004
+Warning--empty journal in Goncalves2014
+Warning--missing school in Garousi2006
+Warning--empty year in DiAlesio2014
+Warning--empty journal in Canfora
+Warning--empty year in Canfora
+Warning--empty journal in Tracey1998
+
+Done.
+You've used 38 entries,
+            4039 wiz_defined-function locations,
+            1048 strings with 14926 characters,
+and the built_in function-call counts, 23932 in all, are:
+= -- 1978
+> -- 536
+< -- 175
++ -- 284
+- -- 94
+* -- 1132
+:= -- 3782
+add.period$ -- 76
+call.type$ -- 38
+change.case$ -- 37
+chr.to.int$ -- 405
+cite$ -- 50
+duplicate$ -- 1794
+empty$ -- 1913
+format.name$ -- 119
+if$ -- 5421
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 301
+newline$ -- 148
+num.names$ -- 38
+pop$ -- 724
+preamble$ -- 2
+purify$ -- 0
+quote$ -- 2
+skip$ -- 1856
+stack$ -- 0
+substring$ -- 997
+swap$ -- 1373
+text.length$ -- 40
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 38
+warning$ -- 12
+while$ -- 112
+width$ -- 40
+write$ -- 372
+(There were 2 error messages)
